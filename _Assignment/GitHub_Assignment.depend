@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1790148786 source:c:\users\administrator\onedrive\desktop\structured programming\github_assignment\transport_fare_calc.c
+	<stdio.h>
+	<stdlib.h>
+
+1790149494 source:c:\users\administrator\onedrive\desktop\structured programming\github_assignment\transport_fare_balance_calc.c
+	<stdio.h>
+	<stdlib.h>
+
+1790150008 source:c:\users\administrator\onedrive\desktop\structured programming\github_assignment\students_result_calc.c
+	<stdio.h>
+	<stdlib.h>
+

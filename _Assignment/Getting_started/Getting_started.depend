@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1790150448 source:c:\users\administrator\onedrive\desktop\structured programming\github_assignment\counting_loop\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1790152126 source:c:\users\administrator\onedrive\desktop\structured programming\github_assignment\getting_started\getting_started.c
+	<stdio.h>
+	<stdlib.h>
+
